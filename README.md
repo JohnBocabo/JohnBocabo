@@ -55,7 +55,7 @@
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Contact me!
 
 - 📧 Email: johndoebocabo@gmail.com
 
