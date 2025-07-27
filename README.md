@@ -4,7 +4,7 @@
 💻 Currently focused on **full-stack web development**, building both the frontend and backend of web applications.  
 🚀 Always learning and improving to create clean, efficient, and user-friendly solutions.
 
-👌 Likes to keep it clean and simple but efficient.
+👌 Likes to keep it clean, simple and efficient.
 
 ---
 ## 🛠 Tech Stack
