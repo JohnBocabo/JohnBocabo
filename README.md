@@ -10,7 +10,7 @@
 ## 🛠 Tech Stack
 
 ### 🚀 Frameworks & Libraries
-<p align="center">
+<p align="start">
   <img title="Laravel" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" />&nbsp;&nbsp;
   <img title="Next.js" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />&nbsp;&nbsp;
   <img title="React" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
@@ -20,7 +20,7 @@
 ---
 
 ### 🧰 Languages
-<p align="center">
+<p align="start">
   <img title="HTML5" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />&nbsp;&nbsp;
   <img title="CSS3" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />&nbsp;&nbsp;
   <img title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />&nbsp;&nbsp;
@@ -31,7 +31,7 @@
 ---
 
 ### 🗄️ Databases
-<p align="center">
+<p align="start">
   <img title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />&nbsp;&nbsp;
   <img title="PostgreSQL" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
 </p>
@@ -39,7 +39,7 @@
 ---
 
 ### 🔧 Tools
-<p align="center">
+<p align="start">
   <img title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />&nbsp;&nbsp;
   <img title="GitHub" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />&nbsp;&nbsp;
   <img title="VS Code" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
